@@ -1,0 +1,60 @@
+{
+  "rules": {
+    "Productive": [
+      "vscode",
+      "github",
+      "notion",
+      "stackoverflow",
+      "docs.google",
+      "coursera",
+      "wikipedia",
+      "khan",
+      "udemy",
+      "linkedin",
+      "medium",
+      "dev.to"
+    ],
+    "Distracting": [
+      "youtube",
+      "tiktok",
+      "instagram",
+      "netflix",
+      "facebook",
+      "twitter",
+      "reddit",
+      "twitch",
+      "discord",
+      "snapchat"
+    ],
+    "Blocked": [
+      "malicioussite",
+      "piratedcontent",
+      "adultcontent",
+      "gambling",
+      "phishing"
+    ],
+    "Neutral": [
+      "weather",
+      "calculator",
+      "calendar",
+      "settings",
+      "system",
+      "control panel",
+      "task manager",
+      "file explorer",
+      "notepad",
+      "clock"
+    ]
+  },
+  "ai_cache": {
+    "visual studio code [administrator]": "Neutral",
+    "vlc media player": "Neutral",
+    "visual studio code": "Neutral",
+    "brave": "Neutral",
+    "microsoft.windowsterminal_1.22.11141.0_x64__8wekyb3d8bbwe": "Neutral",
+    "app-0.23.1": "Neutral",
+    "kimi": "Neutral",
+    "google gemini": "Productive"
+  },
+  "user_overrides": {}
+}

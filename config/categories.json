@@ -1,0 +1,164 @@
+{
+    "search": [
+        "search",
+        "find",
+        "cortana",
+        "spotlight",
+        "launcher"
+    ],
+    "system_dialog": [
+        "properties",
+        "settings",
+        "control panel",
+        "options"
+    ],
+    "file_manager": [
+        "explorer",
+        "finder",
+        "nautilus",
+        "dolphin"
+    ],
+    "terminal": [
+        "terminal",
+        "cmd",
+        "powershell",
+        "bash",
+        "konsole"
+    ],
+    "browser": [
+        "chrome",
+        "firefox",
+        "edge",
+        "brave",
+        "opera"
+    ],
+    "code_editor": [
+        "code",
+        "pycharm",
+        "sublime",
+        "atom",
+        "vim",
+        "devenv"
+    ],
+    "entertainment": [
+        "youtube",
+        "netflix",
+        "spotify",
+        "twitch",
+        "prime video",
+        "hulu"
+    ],
+    "social_media": [
+        "facebook",
+        "twitter",
+        "instagram",
+        "tiktok",
+        "snapchat",
+        "threads"
+    ],
+    "games": [
+        "steam",
+        "epic games",
+        "roblox",
+        "fortnite",
+        "minecraft",
+        "valorant"
+    ],
+    "productivity": [
+        "notion",
+        "evernote",
+        "todoist",
+        "trello",
+        "google docs",
+        "microsoft office"
+    ],
+    "communication": [
+        "whatsapp",
+        "discord",
+        "zoom",
+        "skype",
+        "teams",
+        "telegram"
+    ],
+    "shopping": [
+        "amazon",
+        "ebay",
+        "aliexpress",
+        "etsy",
+        "shein",
+        "walmart"
+    ],
+    "finance": [
+        "paypal",
+        "revolut",
+        "binance",
+        "coinbase",
+        "robinhood",
+        "mint"
+    ],
+    "news_information": [
+        "bbc",
+        "cnn",
+        "wikipedia",
+        "medium",
+        "nytimes",
+        "quora"
+    ],
+    "utilities": [
+        "winrar",
+        "7zip",
+        "ccleaner",
+        "nordvpn",
+        "expressvpn",
+        "everything"
+    ],
+    "education": [
+        "coursera",
+        "khan academy",
+        "duolingo",
+        "udemy",
+        "edx",
+        "brilliant"
+    ],
+    "cloud_storage": [
+        "google drive",
+        "dropbox",
+        "onedrive",
+        "icloud",
+        "mega"
+    ],
+    "developer_tools": [
+        "github",
+        "gitlab",
+        "stack overflow",
+        "postman",
+        "docker",
+        "visual studio code",
+        "vim",
+        "neovim"
+    ],
+    "travel_navigation": [
+        "google maps",
+        "uber",
+        "lyft",
+        "booking.com",
+        "airbnb",
+        "waze"
+    ],
+    "health_fitness": [
+        "fitbit",
+        "myfitnesspal",
+        "headspace",
+        "calm",
+        "strava",
+        "nike training"
+    ],
+    "adult_content": [
+        "pornhub",
+        "onlyfans",
+        "stripchat",
+        "xvideos",
+        "xhamster",
+        "chaturbate"
+    ]
+}
