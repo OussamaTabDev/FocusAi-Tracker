@@ -54,7 +54,15 @@
     "microsoft.windowsterminal_1.22.11141.0_x64__8wekyb3d8bbwe": "Neutral",
     "app-0.23.1": "Neutral",
     "kimi": "Neutral",
-    "google gemini": "Productive"
+    "google gemini": "Productive",
+    "v1.0": "Neutral",
+    "free download manager": "Neutral",
+    "claude": "Neutral",
+    "deepseek": "Neutral",
+    "terminal": "Neutral",
+    "pornhub": "Blocked",
+    "google docs": "Productive",
+    "vlc": "Neutral"
   },
   "user_overrides": {}
 }
