@@ -71,5 +71,6 @@
     "winscp.exe": "WinSCP",
     "filezilla.exe": "FileZilla",
     "cyberduck.exe": "Cyberduck",
-    "transmission.exe": "Transmission"
+    "transmission.exe": "Transmission",
+    "SnippingTool.exe": "SnippingTool"
 }

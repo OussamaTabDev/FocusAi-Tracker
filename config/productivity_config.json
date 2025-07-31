@@ -62,7 +62,8 @@
     "terminal": "Neutral",
     "pornhub": "Blocked",
     "google docs": "Productive",
-    "vlc": "Neutral"
+    "vlc": "Neutral",
+    "snippingtool": "Neutral"
   },
   "user_overrides": {}
 }
