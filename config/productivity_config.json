@@ -12,7 +12,8 @@
       "udemy",
       "linkedin",
       "medium",
-      "dev.to"
+      "dev.to",
+      "terminal"
     ],
     "Distracting": [
       "youtube",
@@ -47,23 +48,26 @@
     ]
   },
   "ai_cache": {
-    "visual studio code [administrator]": "Neutral",
     "vlc media player": "Neutral",
-    "visual studio code": "Neutral",
+    "visual studio code": "Productive",
     "brave": "Neutral",
     "microsoft.windowsterminal_1.22.11141.0_x64__8wekyb3d8bbwe": "Neutral",
     "app-0.23.1": "Neutral",
-    "kimi": "Neutral",
+    "kimi": "Productive",
     "google gemini": "Productive",
     "v1.0": "Neutral",
     "free download manager": "Neutral",
-    "claude": "Neutral",
-    "deepseek": "Neutral",
-    "terminal": "Neutral",
+    "claude": "Productive",
+    "deepseek": "Productive",
+    "terminal": "Productive",
     "pornhub": "Blocked",
     "google docs": "Productive",
     "vlc": "Neutral",
-    "snippingtool": "Neutral"
+    "snippingtool": "Neutral",
+    "xnxx": "Blocked",
+    "qwen": "Productive",
+    "ac": "Neutral",
+    "echoapi": "Productive"
   },
   "user_overrides": {}
 }

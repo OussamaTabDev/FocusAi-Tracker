@@ -72,5 +72,6 @@
     "filezilla.exe": "FileZilla",
     "cyberduck.exe": "Cyberduck",
     "transmission.exe": "Transmission",
-    "SnippingTool.exe": "SnippingTool"
+    "SnippingTool.exe": "SnippingTool",
+    "wslsettings.exe": "wslsettings"
 }
