@@ -67,7 +67,15 @@
     "xnxx": "Blocked",
     "qwen": "Productive",
     "ac": "Neutral",
-    "echoapi": "Productive"
+    "echoapi": "Productive",
+    "lucide": "Neutral",
+    "lovable": "Distracting",
+    "chatgpt": "Productive",
+    "whatsapp": "Distracting",
+    "it": "Neutral",
+    "ensam-casa": "Distracting",
+    "googleusercontent": "Neutral",
+    "google drive": "Neutral"
   },
   "user_overrides": {}
 }

@@ -1,0 +1,28 @@
+{
+  "mode_type": "STANDARD",
+  "submode": "FOCUS",
+  "focus_type": "KISS",
+  "description": "MVP",
+  "settings": {
+    "allowed_apps": [
+      "visual studio code",
+      "figma"
+    ],
+    "blocked_apps": [
+      "discord",
+      "steam",
+      "spotify",
+      "facebook",
+      "reddit",
+      "twitter",
+      "whatsapp"
+    ],
+    "minimized_apps": [],
+    "duration": 5,
+    "notifications_enabled": false,
+    "auto_break_reminder": true,
+    "break_interval_minutes": 25,
+    "distraction_blocker": true,
+    "strict_mode": false
+  }
+}

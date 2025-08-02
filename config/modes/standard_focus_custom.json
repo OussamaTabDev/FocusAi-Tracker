@@ -1,12 +1,21 @@
 {
-    "mode_type": "STANDARD",
-    "submode": "FOCUS",
-    "focus_type": "CUSTOM",
-    "settings": {
-        "allowed_apps": ["visual studio code", "figma"],
-        "blocked_apps": ["discord", "slack" , "youtube", "facebook", "reddit"],
-        "minimized_apps": [],
-        "duration": 45,
-        "productivity_target": 85
-    }
+  "mode_type": "STANDARD",
+  "submode": "FOCUS",
+  "focus_type": "CUSTOM",
+  "settings": {
+    "allowed_apps": [
+      "Visual Studio Code",
+      "Notion",
+      "Slack",
+      "Figma",
+      "Obsidian",
+      "Microsoft Teams",
+      "Trello"
+    ],
+    "blocked_apps": [],
+    "minimized_apps": [],
+    "duration": 25,
+    "productivity_target": 85,
+    "strict_mode": false
+  }
 }

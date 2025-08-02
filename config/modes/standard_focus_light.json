@@ -7,8 +7,7 @@
     "allowed_apps": [
       "visual studio code",
       "notion",
-      "slack",
-      "spotify"
+      "slack"
     ],
     "blocked_apps": [
       "discord",
@@ -22,6 +21,7 @@
     "duration": 30,
     "notifications_enabled": true,
     "auto_break_reminder": false,
-    "distraction_blocker": false
+    "distraction_blocker": false,
+    "strict_mode": false
   }
 }

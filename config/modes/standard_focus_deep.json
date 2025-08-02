@@ -26,10 +26,15 @@
       "vlc",
       "YouTube"
     ],
-    "duration": 90,
+    "duration": 10,
+    "strict_mode": true,
     "notifications_enabled": false,
     "auto_break_reminder": true,
     "break_interval_minutes": 25,
-    "distraction_blocker": true
+    "distraction_blocker": true,
+    "mode_type": "STANDARD",
+    "submode": "FOCUS",
+    "focus_type": "DEEP",
+    "description": "Deep focus mode for intensive work"
   }
 }
