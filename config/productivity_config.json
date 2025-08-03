@@ -75,7 +75,9 @@
     "it": "Neutral",
     "ensam-casa": "Distracting",
     "googleusercontent": "Neutral",
-    "google drive": "Neutral"
+    "google drive": "Neutral",
+    "tailwindcss": "Productive",
+    "codegeex": "Productive"
   },
   "user_overrides": {}
 }

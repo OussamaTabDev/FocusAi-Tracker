@@ -4961,5 +4961,425 @@
     "timestamp": "2025-08-02T15:25:43.793Z",
     "server_timestamp": "2025-08-02T16:25:43.805791",
     "domain": "localhost:8080"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T00:41:14.706Z",
+    "server_timestamp": "2025-08-03T01:41:15.016746",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "https://lovable.dev/projects/be55a8f2-52b2-4b0d-a83d-2748a3e1a93e",
+    "title": "productive-life-buddy-10 - Lovable",
+    "timestamp": "2025-08-03T00:42:32.999Z",
+    "server_timestamp": "2025-08-03T01:42:33.005580",
+    "domain": "lovable.dev"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T00:42:46.167Z",
+    "server_timestamp": "2025-08-03T01:42:46.221212",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "https://lovable.dev/projects/be55a8f2-52b2-4b0d-a83d-2748a3e1a93e",
+    "title": "productive-life-buddy-10 - Lovable",
+    "timestamp": "2025-08-03T00:43:17.864Z",
+    "server_timestamp": "2025-08-03T01:43:17.870475",
+    "domain": "lovable.dev"
+  },
+  {
+    "url": "https://lovable.dev/projects/be55a8f2-52b2-4b0d-a83d-2748a3e1a93e",
+    "title": "productive-life-buddy-10 - Lovable",
+    "timestamp": "2025-08-03T00:46:47.913Z",
+    "server_timestamp": "2025-08-03T01:46:48.237252",
+    "domain": "lovable.dev"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T00:47:06.483Z",
+    "server_timestamp": "2025-08-03T01:47:06.496215",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "https://lovable.dev/projects/be55a8f2-52b2-4b0d-a83d-2748a3e1a93e",
+    "title": "productive-life-buddy-10 - Lovable",
+    "timestamp": "2025-08-03T00:49:47.649Z",
+    "server_timestamp": "2025-08-03T01:49:47.984601",
+    "domain": "lovable.dev"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T00:51:41.991Z",
+    "server_timestamp": "2025-08-03T01:51:42.401348",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "chrome://newtab/",
+    "title": "New Tab",
+    "timestamp": "2025-08-03T00:57:07.743Z",
+    "server_timestamp": "2025-08-03T01:57:08.136884",
+    "domain": "newtab"
+  },
+  {
+    "url": "https://claude.ai/",
+    "title": "Claude",
+    "timestamp": "2025-08-03T00:57:13.701Z",
+    "server_timestamp": "2025-08-03T01:57:14.181034",
+    "domain": "claude.ai"
+  },
+  {
+    "url": "https://claude.ai/new",
+    "title": "Claude",
+    "timestamp": "2025-08-03T00:57:15.729Z",
+    "server_timestamp": "2025-08-03T01:57:16.092640",
+    "domain": "claude.ai"
+  },
+  {
+    "url": "https://claude.ai/chat/698ebbeb-2b9f-4042-8a85-bf791729b49f",
+    "title": "Claude",
+    "timestamp": "2025-08-03T00:57:40.982Z",
+    "server_timestamp": "2025-08-03T01:57:41.447230",
+    "domain": "claude.ai"
+  },
+  {
+    "url": "https://claude.ai/chat/698ebbeb-2b9f-4042-8a85-bf791729b49f",
+    "title": "Panel Design Upgrade - Claude",
+    "timestamp": "2025-08-03T01:00:50.225Z",
+    "server_timestamp": "2025-08-03T02:00:50.572241",
+    "domain": "claude.ai"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T01:02:27.919Z",
+    "server_timestamp": "2025-08-03T02:02:28.531682",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "https://lovable.dev/projects/be55a8f2-52b2-4b0d-a83d-2748a3e1a93e",
+    "title": "productive-life-buddy-10 - Lovable",
+    "timestamp": "2025-08-03T01:03:58.798Z",
+    "server_timestamp": "2025-08-03T02:03:59.133070",
+    "domain": "lovable.dev"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T01:04:41.616Z",
+    "server_timestamp": "2025-08-03T02:04:41.990698",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T01:07:02.223Z",
+    "server_timestamp": "2025-08-03T02:07:02.700431",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "chrome://newtab/",
+    "title": "New Tab",
+    "timestamp": "2025-08-03T01:15:40.614Z",
+    "server_timestamp": "2025-08-03T02:15:40.953595",
+    "domain": "newtab"
+  },
+  {
+    "url": "https://search.brave.com/search?q=margin+in+tailwind&source=desktop",
+    "title": "margin in tailwind - Brave Search",
+    "timestamp": "2025-08-03T01:15:52.029Z",
+    "server_timestamp": "2025-08-03T02:15:52.045203",
+    "domain": "search.brave.com"
+  },
+  {
+    "url": "https://search.brave.com/search?q=margin+in+tailwind&source=desktop&summary=1&conversation=54b29e5f34764f57f4d6c8",
+    "title": "margin in tailwind - Brave Search",
+    "timestamp": "2025-08-03T01:15:59.109Z",
+    "server_timestamp": "2025-08-03T02:15:59.479272",
+    "domain": "search.brave.com"
+  },
+  {
+    "url": "https://tailwindcss.com/docs/margin",
+    "title": "margin - Spacing - Tailwind CSS",
+    "timestamp": "2025-08-03T01:16:17.463Z",
+    "server_timestamp": "2025-08-03T02:16:17.815839",
+    "domain": "tailwindcss.com"
+  },
+  {
+    "url": "https://search.brave.com/search?q=margin+in+tailwind&source=desktop&summary=1&conversation=54b29e5f34764f57f4d6c8",
+    "title": "margin in tailwind - Brave Search",
+    "timestamp": "2025-08-03T01:16:34.189Z",
+    "server_timestamp": "2025-08-03T02:16:34.351089",
+    "domain": "search.brave.com"
+  },
+  {
+    "url": "https://search.brave.com/search?q=move+in+tailwind&source=web",
+    "title": "move in tailwind - Brave Search",
+    "timestamp": "2025-08-03T01:16:40.497Z",
+    "server_timestamp": "2025-08-03T02:16:40.538430",
+    "domain": "search.brave.com"
+  },
+  {
+    "url": "https://tailwindcss.com/docs/position",
+    "title": "position - Layout - Tailwind CSS",
+    "timestamp": "2025-08-03T01:16:46.571Z",
+    "server_timestamp": "2025-08-03T02:16:46.619522",
+    "domain": "tailwindcss.com"
+  },
+  {
+    "url": "https://search.brave.com/search?q=move+in+tailwind&source=web",
+    "title": "move in tailwind - Brave Search",
+    "timestamp": "2025-08-03T01:17:09.053Z",
+    "server_timestamp": "2025-08-03T02:17:09.431285",
+    "domain": "search.brave.com"
+  },
+  {
+    "url": "https://search.brave.com/search?q=move+in+tailwind&source=web&summary=1&conversation=1b5823b6ef95a71da93f0f",
+    "title": "move in tailwind - Brave Search",
+    "timestamp": "2025-08-03T01:17:09.550Z",
+    "server_timestamp": "2025-08-03T02:17:09.680874",
+    "domain": "search.brave.com"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T01:17:29.623Z",
+    "server_timestamp": "2025-08-03T02:17:29.725517",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3qrmEyYu5o4&list=PLamcJ5M_LTweFmeyzTSmc42DZQ350otD_&index=4",
+    "title": "YouTube",
+    "timestamp": "2025-08-03T10:25:01.190Z",
+    "server_timestamp": "2025-08-03T11:25:08.600699",
+    "domain": "youtube.com"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T10:25:09.133Z",
+    "server_timestamp": "2025-08-03T11:25:09.485602",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "https://drive.google.com/drive/folders/1BGpJE6SKJPMmIzY9ZHPZhE3sp29wYF-x",
+    "title": "SMA ANALYSE - Google Drive",
+    "timestamp": "2025-08-03T10:25:30.491Z",
+    "server_timestamp": "2025-08-03T11:25:30.504250",
+    "domain": "drive.google.com"
+  },
+  {
+    "url": "https://drive.google.com/drive/folders/1KmQdT3by6l6cZgjI-dN13rZkGAqNM9b3",
+    "title": "Documentation - RH - Google Drive",
+    "timestamp": "2025-08-03T10:25:32.770Z",
+    "server_timestamp": "2025-08-03T11:25:32.780884",
+    "domain": "drive.google.com"
+  },
+  {
+    "url": "https://search.brave.com/search?q=move+in+tailwind&source=web&summary=1&conversation=1b5823b6ef95a71da93f0f",
+    "title": "move in tailwind - Brave Search",
+    "timestamp": "2025-08-03T10:25:45.537Z",
+    "server_timestamp": "2025-08-03T11:25:45.768362",
+    "domain": "search.brave.com"
+  },
+  {
+    "url": "https://lovable.dev/projects/be55a8f2-52b2-4b0d-a83d-2748a3e1a93e",
+    "title": "productive-life-buddy-10 - Lovable",
+    "timestamp": "2025-08-03T10:25:46.027Z",
+    "server_timestamp": "2025-08-03T11:25:46.035539",
+    "domain": "lovable.dev"
+  },
+  {
+    "url": "https://drive.google.com/drive/folders/1j8wEYrjr7geVLHODZrFskqGP1DaW_PIN",
+    "title": "Concour MASTER mi - Google Drive",
+    "timestamp": "2025-08-03T10:25:46.738Z",
+    "server_timestamp": "2025-08-03T11:25:47.051631",
+    "domain": "drive.google.com"
+  },
+  {
+    "url": "https://search.brave.com/search?q=move+in+tailwind&source=web&summary=1&conversation=7a43c4cc943fd058243438",
+    "title": "move in tailwind - Brave Search",
+    "timestamp": "2025-08-03T10:25:50.764Z",
+    "server_timestamp": "2025-08-03T11:25:51.090747",
+    "domain": "search.brave.com"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T10:31:37.637Z",
+    "server_timestamp": "2025-08-03T11:31:39.616584",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T10:43:19.995Z",
+    "server_timestamp": "2025-08-03T11:43:20.340976",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T10:48:18.394Z",
+    "server_timestamp": "2025-08-03T11:48:18.726843",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "https://codegeex.cn/en-US/downloadGuide#vscode",
+    "title": "CodeGeeX",
+    "timestamp": "2025-08-03T10:59:53.897Z",
+    "server_timestamp": "2025-08-03T11:59:54.210106",
+    "domain": "codegeex.cn"
+  },
+  {
+    "url": "https://lovable.dev/projects/be55a8f2-52b2-4b0d-a83d-2748a3e1a93e",
+    "title": "lovable.dev",
+    "timestamp": "2025-08-03T10:59:55.171Z",
+    "server_timestamp": "2025-08-03T11:59:55.188547",
+    "domain": "lovable.dev"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T10:59:56.100Z",
+    "server_timestamp": "2025-08-03T11:59:56.450348",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T11:20:06.340Z",
+    "server_timestamp": "2025-08-03T12:20:06.757348",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T12:35:14.642Z",
+    "server_timestamp": "2025-08-03T13:35:15.307279",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MzBew0Uoajk",
+    "title": "(86) الشيخ رعد الكردي ؛ تلاوة هادئة لسورة القصص - YouTube",
+    "timestamp": "2025-08-03T12:35:16.679Z",
+    "server_timestamp": "2025-08-03T13:35:17.003070",
+    "domain": "youtube.com"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T12:35:17.623Z",
+    "server_timestamp": "2025-08-03T13:35:17.669638",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MzBew0Uoajk",
+    "title": "(86) الشيخ رعد الكردي ؛ تلاوة هادئة لسورة القصص - YouTube",
+    "timestamp": "2025-08-03T12:36:32.247Z",
+    "server_timestamp": "2025-08-03T13:36:32.291590",
+    "domain": "youtube.com"
+  },
+  {
+    "url": "https://search.brave.com/search?q=move+in+tailwind&source=web&summary=1&conversation=7a43c4cc943fd058243438",
+    "title": "move in tailwind - Brave Search",
+    "timestamp": "2025-08-03T12:36:32.278Z",
+    "server_timestamp": "2025-08-03T13:36:32.653703",
+    "domain": "search.brave.com"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T12:36:32.350Z",
+    "server_timestamp": "2025-08-03T13:36:32.690145",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "chrome://newtab/",
+    "title": "New Tab",
+    "timestamp": "2025-08-03T12:36:36.972Z",
+    "server_timestamp": "2025-08-03T13:36:37.190047",
+    "domain": "newtab"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MzBew0Uoajk",
+    "title": "(86) الشيخ رعد الكردي ؛ تلاوة هادئة لسورة القصص - YouTube",
+    "timestamp": "2025-08-03T12:36:36.989Z",
+    "server_timestamp": "2025-08-03T13:36:37.331187",
+    "domain": "youtube.com"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1QgANkk4kH0",
+    "title": "(86) سلسلة البيداغوجية(5) الكتاب الابيض - YouTube",
+    "timestamp": "2025-08-03T12:48:56.631Z",
+    "server_timestamp": "2025-08-03T13:48:56.950879",
+    "domain": "youtube.com"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T12:48:58.040Z",
+    "server_timestamp": "2025-08-03T13:48:58.373416",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "chrome://newtab/",
+    "title": "New Tab",
+    "timestamp": "2025-08-03T12:49:51.536Z",
+    "server_timestamp": "2025-08-03T13:49:51.856423",
+    "domain": "newtab"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MzBew0Uoajk",
+    "title": "(86) الشيخ رعد الكردي ؛ تلاوة هادئة لسورة القصص - YouTube",
+    "timestamp": "2025-08-03T12:50:58.088Z",
+    "server_timestamp": "2025-08-03T13:50:58.093891",
+    "domain": "youtube.com"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1QgANkk4kH0",
+    "title": "(86) سلسلة البيداغوجية(5) الكتاب الابيض - YouTube",
+    "timestamp": "2025-08-03T12:54:08.280Z",
+    "server_timestamp": "2025-08-03T13:54:08.601255",
+    "domain": "youtube.com"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T12:54:08.494Z",
+    "server_timestamp": "2025-08-03T13:54:08.833802",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T12:59:43.476Z",
+    "server_timestamp": "2025-08-03T13:59:43.816602",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T13:05:31.574Z",
+    "server_timestamp": "2025-08-03T14:05:32.035661",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "http://localhost:8080/",
+    "title": "FocusAi tracker",
+    "timestamp": "2025-08-03T13:08:01.217Z",
+    "server_timestamp": "2025-08-03T14:08:01.675538",
+    "domain": "localhost:8080"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1QgANkk4kH0",
+    "title": "(86) سلسلة البيداغوجية(5) الكتاب الابيض - YouTube",
+    "timestamp": "2025-08-03T13:08:07.524Z",
+    "server_timestamp": "2025-08-03T14:08:07.917709",
+    "domain": "youtube.com"
   }
 ]
