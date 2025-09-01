@@ -56,12 +56,12 @@ FocusAI Tracker combines the power of AI with comprehensive activity monitoring 
 
 ## 🏗️ Architecture
 
-FocusAI Tracker uses a hybrid architecture combining a Python Flask backend with a React/Electron frontend for optimal performance and user experience.
+FocusAI Tracker uses a hybrid architecture combining a Python Flask backend with a React/auri frontend for optimal performance and user experience.
 
 ### Technology Stack
 
 **Frontend:**
-- **Electron**: Desktop application shell
+- **auri**: Desktop application shell
 - **React**: Component-based UI library (TypeScript)
 - **Tailwind CSS**: Utility-first CSS framework
 - **Chart.js** & **react-chartjs-2**: Data visualization
@@ -113,9 +113,9 @@ FocusAI-Tracker/
 │   │   ├── contexts/         # React contexts
 │   │   ├── hooks/            # Custom hooks
 │   │   └── layouts/          # Layout components
-│   ├── public/               # Static files for Electron/React
-│   ├── app/                  # (If used for Electron preload)
-│   ├── main.js               # Electron main process
+│   ├── public/               # Static files for auri/React
+│   ├── app/                  # (If used for auri preload)
+│   ├── main.js               # auri main process
 │   ├── package.json
 │   ├── tailwind.config.js
 │   ├── tsconfig.json
@@ -208,9 +208,9 @@ python run.py
 cd frontend
 npm start
 
-# Terminal 3: Start Electron desktop app (after React dev server is running)
+# Terminal 3: Start auri desktop app (after React dev server is running)
 cd frontend
-npm run electron-dev
+npm run auri-dev
 ```
 
 ### 4. Database Setup
@@ -313,7 +313,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **Google Gemini**: AI-powered insights and recommendations (planned)
-- **Electron Community**: Cross-platform desktop application framework
+- **auri Community**: Cross-platform desktop application framework
 - **Python Community**: Robust backend development ecosystem
 - **Contributors**: All developers who help improve FocusAI Tracker
 
