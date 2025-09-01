@@ -85,12 +85,13 @@ FocusAI Tracker uses a hybrid architecture combining a Python Flask backend with
 ### Project Structure
 ```
 FocusAI-Tracker/
-├── backend/
+├── Core/
 │   ├── app/
-│   │   ├── api/              # Flask API routes (activity, dashboard, settings, kids_mode, etc.)
 │   │   ├── core/             # Core config and logic
 │   │   ├── models/           # Database models
 │   │   ├── services/         # Business services
+├── Server/
+│   │   ├── api/              # Flask API routes (activity, dashboard, settings, kids_mode, etc.)
 │   │   ├── tracking/         # Activity tracking modules
 │   │   └── utils/            # Utility functions
 │   ├── ai/                   # (Planned) AI/ML modules
@@ -119,7 +120,7 @@ FocusAI-Tracker/
 │   ├── tailwind.config.js
 │   ├── tsconfig.json
 │   └── postcss.config.js
-├── shared/
+├── Bin/
 │   ├── config/               # Shared configuration
 │   └── schemas/              # Shared data schemas
 ├── docs/                     # Documentation
